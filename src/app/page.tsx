@@ -72,7 +72,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-500 to-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow hover:scale-105 hover:from-blue-600 hover:to-blue-800 transition-all duration-200 text-center"
           >
-            쿠팡 최저가 구입 하기 !
+            쿠팡 최저가 구입 하기 
           </a>
           <a
             href="https://link.coupang.com/a/cFAAlX"
