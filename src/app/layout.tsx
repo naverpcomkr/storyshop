@@ -37,10 +37,3 @@ export default function RootLayout({
   );
 }
 
-export function Head() {
-  return (
-    <>
-      <link rel="icon" href="/favicon.ico" />
-    </>
-  );
-}
